@@ -28,6 +28,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'PokeDex.jpg',
+    title: 'React Native (Mobile App): PokeDex App',
+    info: 'This is a mobile app, so please access link via your mobile device for app to appear appropriately.',
+    info2: 'Leverages an external PokeMon API that allows you to lookup information about all of the PokeMon.',
+    url: 'https://app.netlify.com/sites/wonderful-wright-f2f1a5/overview',
+    repo: 'https://github.com/colin-shreeder/pokedex', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'shreddit.jpg',
     title: 'Full Stack Social Forum App: Shreddit!',
     info: 'Shallow copy of the website, Reddit. Uses the SERN stack, Bcrypt, and .env to secure login info.',
@@ -47,11 +56,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'blog.jpg',
-    title: 'Blog Website',
+    title: 'React: Blog Website',
     info: 'Built using Express, React, Node, and .env',
     info2: '',
     url: 'http://165.232.146.25:3016/',
     repo: 'https://github.com/colin-shreeder/react-4-mini', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'todo.jpg',
+    title: 'Angular: Todo List',
+    info: 'Built using Angular.',
+    info2: '',
+    url: 'https://elated-noether-a100f9.netlify.app/',
+    repo: 'https://github.com/colin-shreeder/angular-todolist', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
