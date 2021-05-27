@@ -38,7 +38,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'shreddit.jpg',
-    title: 'Full Stack (SERN): Social Forum App - Shreddit!',
+    title: 'Full Stack (SERN): Social Forum App - "Shreddit!"',
     info: 'Shallow copy of the website, Reddit. Uses the SERN stack, Bcrypt, and .env to secure login info.',
     info2: 'To login, enter a username and password, then click sign up. If you have already created an account, use your previous login info. ',
     url: 'http://165.232.146.25:4000/',
@@ -47,7 +47,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'holeinwall.jpg',
-    title: 'Full Stack Travel App: Hole In The Wall',
+    title: 'Full Stack (SERN): Travel App - "Hole In The Wall"',
     info: 'Travel app that uses a Google Maps API integration. Coded with SERN stack.',
     info2: '',
     url: 'http://165.232.146.25:4020/',
@@ -56,7 +56,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'blog.jpg',
-    title: 'React: Blog Website',
+    title: 'React, Express, Node: Blog Website',
     info: 'Built using Express, React, Node, and .env',
     info2: '',
     url: 'http://165.232.146.25:3016/',
@@ -65,7 +65,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'todo.jpg',
-    title: 'Angular: Todo List',
+    title: 'Angular: To-do List',
     info: 'Built using Angular.',
     info2: '',
     url: 'https://elated-noether-a100f9.netlify.app/',
@@ -74,7 +74,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'usu.jpg',
-    title: 'University/Class Schedule Website',
+    title: 'React, Express, Node: University/Class Schedule Website',
     info: 'Built using Express, React, and Node.',
     info2: '',
     url: 'http://165.232.146.25:3017/',
@@ -83,7 +83,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'fxpad.jpg',
-    title: 'Piano & FX Pad',
+    title: 'HTML, CSS, VanillaJS: Piano & FX Pad',
     info: 'Built using HTML, CSS, and VanillaJS.',
     info2: '',
     url: 'https://priceless-hodgkin-901503.netlify.app/',
@@ -92,7 +92,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'tictactoe.jpg',
-    title: 'Tic Tac Toe Game',
+    title: 'HTML, CSS, VanillaJS: Tic Tac Toe Game',
     info: 'Bulit using HTML, CSS, and VanillaJS',
     info2: '',
     url: 'https://peaceful-curran-ee1d2f.netlify.app/',
@@ -101,7 +101,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'texteditor.jpg',
-    title: 'Text Editor',
+    title: 'React, Node: Text Editor',
     info: 'Built using HTML, CSS, JavaScript, Node, and React.',
     info2: '',
     url: 'http://165.232.146.25:4001/',
