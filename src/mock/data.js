@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'React Native (Mobile App): PokeDex App',
     info: 'This is a mobile app, so please access link via your mobile device for app to appear appropriately.',
     info2: 'Leverages an external PokeMon API that allows you to lookup information about all of the PokeMon.',
-    url: 'https://app.netlify.com/sites/wonderful-wright-f2f1a5/overview',
+    url: 'https://wonderful-wright-f2f1a5.netlify.app/',
     repo: 'https://github.com/colin-shreeder/pokedex', // if no repo, the button will not show up
   },
   {
