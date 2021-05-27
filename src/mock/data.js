@@ -28,8 +28,8 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'PokeDex.jpg',
-    title: 'React Native (Mobile App): PokeDex App',
+    img: 'pokedex.jpeg',
+    title: 'React Native (Mobile): PokeDex App',
     info: 'This is a mobile app, so please access link via your mobile device for app to appear appropriately.',
     info2: 'Leverages an external PokeMon API that allows you to lookup information about all of the PokeMon.',
     url: 'https://wonderful-wright-f2f1a5.netlify.app/',
@@ -38,7 +38,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'shreddit.jpg',
-    title: 'Full Stack Social Forum App: Shreddit!',
+    title: 'Full Stack (SERN): Social Forum App - Shreddit!',
     info: 'Shallow copy of the website, Reddit. Uses the SERN stack, Bcrypt, and .env to secure login info.',
     info2: 'To login, enter a username and password, then click sign up. If you have already created an account, use your previous login info. ',
     url: 'http://165.232.146.25:4000/',
