@@ -20,7 +20,6 @@ export const aboutData = {
   img: 'linkedin2.jpg',
   paragraphOne: "After four years of door to door sales and four years of tech sales, I finally decided to make the switch to web development! I recently graduated from Devmountain's Full-Stack Web Development program in January 2021. The stack I specialize in is SERN (Sql, Express, React, Node). Since my graduation, I've been branching out to learn other languages and frameworks such as Java, Python, React Native, and Django. I'm a life long learner and am always working on projects to add to my portfolio.",
   paragraphTwo: "I love snowboarding, jiu-jitsu, lacrosse, and making music. I've played music since I was eight years old and in a lot of ways, writing code reminds me of writing and transposing music. Playing lacrosse in high school & college taught me how important it is to work together as a team in order to achieve a goal. Snowboarding and jiu jitsu have taught me humility and that you can't take yourself too seriously. There are certain things that require near-perfect technique, or they simply won't work. Failure is an essential part of the equation, and more often than not, you need the humility to ask for advice from someone else.",
-  paragraphThree: "",
   resume: 'https://drive.google.com/file/d/1jfB1QZekT0dViZCw_qfK0QvdZDgbHVkB/view?usp=sharing', // if no resume, the button will not show up
 };
 
