@@ -25,14 +25,24 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  
   {
     id: nanoid(),
-    img: 'pokedex2.jpg',
-    title: 'React Native (Mobile): PokeDex App',
-    info: 'This is a mobile app, so please access link via your mobile device for app to appear appropriately.',
-    info2: 'Leverages an external PokeMon API that allows you to lookup information about all of the PokeMon.',
-    url: 'https://wonderful-wright-f2f1a5.netlify.app/',
+    img: 'ComingSoon.jpg',
+    title: 'React Native (Mobile): Social Media Fitness App (Frontend)',
+    info: 'A mobile app I am developing for a client that uses React-Native/Expo according to required UX/UI designs.',
+    info2: 'Leverages swiping featues similar to Tinder to help you find friends with similar interests and hobbies outdoors.',
+    url: '',
     repo: 'https://github.com/colin-shreeder/pokedex', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'ComingSoon.jpg',
+    title: 'React Native (Mobile): Rideshare App',
+    info: 'React-Native mobile app that uses location data to facilitate ride sharing between drivers and passengers.',
+    info2: '',
+    url: '',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
