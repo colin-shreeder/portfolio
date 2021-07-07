@@ -69,7 +69,7 @@ export const projectsData = [
     title: 'Full Stack (SERN): Travel App - "Hole In The Wall"',
     info: 'Travel app that uses a Google Maps API integration. Coded with SERN stack.',
     info2: '',
-    url: 'http://165.232.146.25:4020/',
+    url: 'http://161.35.227.123:4030/',
     repo: 'https://github.com/colin-shreeder/GroupProject', // if no repo, the button will not show up
   },
   {
