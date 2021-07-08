@@ -59,8 +59,8 @@ export const projectsData = [
     img: 'shreddit.jpg',
     title: 'Full Stack (SERN): Social Forum App - "Shreddit!"',
     info: 'Shallow copy of the website, Reddit. Uses the SERN stack, Bcrypt, and .env to secure login info.',
-    info2: 'To login, enter a username and password, then click sign up. If you have already created an account, use your previous login info. ',
-    url: 'http://165.232.146.25:4000/',
+    info2: 'To login, user username "colin" and password "colin". If you have already created an account, use your previous login info. ',
+    url: 'http://161.35.227.123:4000/',
     repo: 'https://github.com/colin-shreeder/personalproject', // if no repo, the button will not show up
   },
   {
